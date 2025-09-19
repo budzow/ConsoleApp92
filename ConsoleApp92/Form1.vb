@@ -1,8 +1,5 @@
-﻿' VB.NET version of the provided VBScript/VB6 code
+﻿Public Class Form1
 
-Public Class Form1
-
-    ' This subroutine displays a message box when called.
     Sub TestSub()
         MsgBox("Code in TestSub()")
     End Sub
